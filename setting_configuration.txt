@@ -13,3 +13,12 @@ git rm --cached <sebutkan namafile>
 
 commit (membuat message)
 git commit -m "Bro tolong check, udh nambah feature"
+
+git branch -M main
+
+git remote add origin https://github.com/Valdo28/git_learning.git
+
+git push -u origin main
+
+check config
+git config --global --list
