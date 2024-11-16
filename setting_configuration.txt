@@ -1,0 +1,15 @@
+setting email user pakai email yang didaftarkan di git
+git config --global user.email 'masukkan emailmu'
+
+konfigurasi user
+git config --global user.name 'user nama anda'
+
+adding file
+git add <sebutkan namafile>
+git add .
+
+remove file
+git rm --cached <sebutkan namafile>
+
+commit (membuat message)
+git commit -m "Bro tolong check, udh nambah feature"
